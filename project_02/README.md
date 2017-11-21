@@ -1,5 +1,5 @@
-#Project Planning
-##Wireframes
+# Project Planning
+## Wireframes
 * Dashboard
 * ![Dashboard Wireframe] (https://github.com/gitschwiftyyy/liftoff-assignments/blob/master/project_02/dashboard.png)
 * Task Page

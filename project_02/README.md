@@ -9,3 +9,5 @@
 
 ## Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/2128536
+
+https://github.com/gitschwiftyyy/home-manager
